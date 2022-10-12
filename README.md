@@ -17,4 +17,11 @@ inicializando o tailwind.config.json com o postcss (-p)
 ```
 npx tailwindcss init -p
 ```
-
+Storybook -  permite mostrar os componentes do projeto de uma forma isolada
+```
+npx sb init --builder @storybook/builder-vite --use-npm
+```
+comando para executar o storybook
+```
+npm run storybook
+```
