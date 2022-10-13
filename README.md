@@ -45,3 +45,14 @@ Storybook Deployer
 ```
 npm i @storybook/storybook-deployer --save-dev
 ```
+CI/CD - workflow de integração contínua, disparar ações a cada vez que implementar algo novo
+criando a pasta .github/workflows.deploy-docs.yml
+Adicionando configuração no main.js da pasta .storybook
+```
+viteFinal: (config, {configType}) => {
+    if(configType === 'PRODUCTION'){
+      config.base = '/Lab-ds/'
+    }
+    return config
+  }
+```
