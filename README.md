@@ -56,3 +56,7 @@ viteFinal: (config, {configType}) => {
     return config
   }
 ```
+Instalando um addons de Accessibilidade
+```
+npm install @storybook/addon-a11y
+```
