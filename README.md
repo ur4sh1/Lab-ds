@@ -41,3 +41,7 @@ RADIX-Checkbox
 ```
 npm i @radix-ui/react-checkbox
 ```
+Storybook Deployer
+```
+npm i @storybook/storybook-deployer --save-dev
+```
