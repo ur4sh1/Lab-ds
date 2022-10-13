@@ -25,3 +25,19 @@ comando para executar o storybook
 ```
 npm run storybook
 ```
+CLSX- biblioteca usada para criar variações de classe no tailwind, mas especificamente de maneira condicional
+```
+npm i --save clsx
+```
+RADIX-UI
+```
+npm i @radix-ui/react-slot
+```
+PHOSPHOR-React
+```
+npm i phosphor-react
+```
+RADIX-Checkbox
+```
+npm i @radix-ui/react-checkbox
+```

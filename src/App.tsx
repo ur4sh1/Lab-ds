@@ -4,7 +4,7 @@ export function App() {
 
   return (
    <>
-   <h1 className="font-bold bg-cyan-300">Opa</h1>
+   <h1 className="font-sans text-2xl bg-gray-400 ">Opa</h1>
    </>
   )
 }
