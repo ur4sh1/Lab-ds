@@ -1,3 +1,42 @@
+
+<h1 align="center">:file_cabinet: Sistema design system</h1>
+
+<img align="center" title="Printscreen" src="" />
+<img align="center" title="Printscreen" src="" />
+<img align="center" title="Printscreen" src="" />
+<hr>
+
+## :memo: Descrição
+Projeto Ignite lab->  do figma ao desenvolvimento, com deployer 
+
+Deployer do projeto
+https://ur4sh1.github.io/Lab-ds/?path=/docs/components-textinput--default
+
+## :books: Funcionalidades
+* Gerenciamento financeiro
+
+## :wrench: Tecnologias utilizadas
+* TypeScript;
+* Tailwindcss;
+* Radix;
+* Storybook;
+
+## :rocket: Rodando o projeto
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+```
+git clone git@github.com:ur4sh1/Lab-ds.git
+```
+Instalar dependências
+```
+npm i ou yarn
+```
+Executar
+```
+npm run dev
+```
+
+## :soon: Histórico de comandos e bibliotecas usadas no projeto
+
 criando o projeto com o vite
 ```
 npm create vite@latest
@@ -56,7 +95,7 @@ viteFinal: (config, {configType}) => {
     return config
   }
 ```
-Instalando um addons de Accessibilidade
+Instalando um addons de Accessibilidade que é exibida no storybook
 ```
 npm install @storybook/addon-a11y
 ```
