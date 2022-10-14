@@ -7,7 +7,7 @@
 <hr>
 
 ## :memo: Descrição
-Projeto Ignite lab->  do figma ao desenvolvimento, com deployer 
+Projeto Ignite lab->  do figma ao desenvolvimento, com deployer no github pages
 
 Deployer do projeto
 https://ur4sh1.github.io/Lab-ds/?path=/docs/components-textinput--default
