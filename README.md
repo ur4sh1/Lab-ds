@@ -13,7 +13,7 @@ Deployer do projeto
 https://ur4sh1.github.io/Lab-ds/?path=/docs/components-textinput--default
 
 ## :books: Funcionalidades
-* Gerenciamento financeiro
+* tela de login para acesso a plataforma
 
 ## :wrench: Tecnologias utilizadas
 * TypeScript;
