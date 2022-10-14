@@ -1,9 +1,9 @@
 
 <h1 align="center">:file_cabinet: Sistema design system</h1>
 
-<img align="center" title="Printscreen" src="" />
-<img align="center" title="Printscreen" src="" />
-<img align="center" title="Printscreen" src="" />
+<img align="center" title="Printscreen" src="https://github.com/ur4sh1/Lab-ds/blob/main/public/printscreen/home_figma.png" />
+<img align="center" title="Printscreen" src="https://github.com/ur4sh1/Lab-ds/blob/main/public/printscreen/DesignSystemComponents.png" />
+<img align="center" title="Printscreen" src="https://github.com/ur4sh1/Lab-ds/blob/main/public/printscreen/DesignSystemColors.png" />
 <hr>
 
 ## :memo: Descrição
